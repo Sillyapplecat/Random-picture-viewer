@@ -1,2 +1,4 @@
 # requirements.txt
 # This file is intentionally left blank.
+
+Pillow>=10.0.0
